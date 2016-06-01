@@ -1,2 +1,2 @@
-# Variational-Logistic-Regression
-RMatlab implementation of Bayesian Regression based on description in Bishop (2006)
+# Bayesian Regression
+Matlab implementation of Bayesian Regression based on description in Bishop (2006)
